@@ -54,6 +54,6 @@
     "react-dom": "18.2.0",
     "react-fela": "^12.2.0",
     "tinygradient": "^1.1.5",
-    "uuid": "^8.3.2"
+    "uuid": "^11.1.0"
   }
 }
