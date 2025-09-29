@@ -17,5 +17,6 @@ requests_toolbelt~=1.0.0
 sphinx-copybutton==0.5.2
 textstat~=0.7.3
 tiktoken~=0.4.0
-transformers==4.29.2
+transformers==4.53.0
 wordfreq~=3.0.3
+torch>=2.8.0 # not directly required, pinned by Snyk to avoid a vulnerability
