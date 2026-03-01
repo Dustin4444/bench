@@ -23,7 +23,7 @@ dependencies = [
     'openai~=0.27',
     'pandas~=2.0.1',
     'langchain~=0.0.170',
-    'sentencepiece==0.1.99',
+    'sentencepiece==0.2.1',
     'bert_score~=0.3',
     'nltk~=3.8',
     'tqdm~=4.65',
