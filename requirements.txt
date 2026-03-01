@@ -29,7 +29,7 @@ jsonpointer==2.4
 kiwisolver==1.4.5
 langchain==0.0.354
 langchain-community==0.0.10
-langchain-core==0.1.8
+langchain-core==1.2.11
 langcodes==3.3.0
 langsmith==0.0.78
 MarkupSafe==2.1.3
