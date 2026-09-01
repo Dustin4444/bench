@@ -33,7 +33,7 @@ dependencies = [
     'requests_toolbelt~=1.0',
     'textstat~=0.7',
     'tiktoken~=0.4',
-    'transformers==4.29.2',
+    'transformers==5.10.1',
     'wordfreq~=3.0'
 ]
 
