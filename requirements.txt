@@ -41,7 +41,7 @@ multidict==6.0.4
 multiprocess==0.70.15
 mypy-extensions==1.0.0
 networkx==3.2.1
-nltk==3.8.1
+nltk==3.10.3
 numpy==1.26.3
 packaging==23.2
 pandas==2.0.3
