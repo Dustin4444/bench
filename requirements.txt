@@ -10,7 +10,7 @@ click==8.1.7
 contourpy==1.2.0
 cycler==0.12.1
 dataclasses-json==0.6.3
-datasets==2.16.1
+datasets==5.0.1
 dill==0.3.7
 evaluate==0.4.1
 exceptiongroup==1.2.0
